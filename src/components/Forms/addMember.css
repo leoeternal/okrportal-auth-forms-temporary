@@ -1,0 +1,31 @@
+.addmember-wrapper {
+  /* border: 1px solid; */
+  width: 100vw;
+  height: 100vh;
+}
+
+.addmember-wrapper h1 {
+  text-align: center;
+  padding: 20px;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.addmember-wrapper .container {
+  /* border: 1px solid; */
+  width: 60%;
+  min-height: 40%;
+  margin: auto;
+}
+
+.addmember-wrapper .button {
+  /* border: 1px solid; */
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
